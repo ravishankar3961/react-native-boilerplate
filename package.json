@@ -10,8 +10,8 @@
     "android": "react-native run-android",
     "rename": "react-native-rename",
     "redux:remove": "yarn remove redux react-redux redux-thunk",
-    "add:typescript": "sh typescript.sh && delete:typescript-sh",
-    "add:firebase": "sh firebase.sh && delete:firebase-sh",
+    "add:typescript": "sh typescript.sh && yarn delete:typescript-sh",
+    "add:firebase": "sh firebase.sh && yarn delete:firebase-sh",
     "delete:typescript-sh": "rm typescript.sh",
     "delete:firebase-sh": "rm firebase.sh"
   },
