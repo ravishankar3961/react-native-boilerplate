@@ -50,3 +50,4 @@ echo "[+] Adjusting *.ts -> *.tsx"
 mv screens/IntroScreen/index.ts screens/IntroScreen/index.tsx
 cd ..
 mv App.js App.tsx
+git status
