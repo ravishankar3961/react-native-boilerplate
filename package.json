@@ -10,7 +10,7 @@
     "android": "react-native run-android",
     "rename": "react-native-rename",
     "redux:remove": "yarn remove redux react-redux redux-thunk",
-    "typescript:add": "sh typescript.sh"
+    "add:typescript": "sh typescript.sh"
   },
   "dependencies": {
     "react": "16.9.0",

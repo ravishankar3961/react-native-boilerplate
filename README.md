@@ -64,9 +64,9 @@ If you face any issue then please checkout the Known Issues section below, but i
 Recently I've been using a lot of TypeScript and I think it's fantastic :smiley: 
 Addition of TypeScript to this boilerplate was a much requested feature from a lot of reddit users of [r/react-native](https://www.reddit.com/r/reactnative/)
 
-To add TypeScript support please run `yarn run typescript:add` command which should excecute the `typescript.sh` script and install all the TypeScript dependencies with types for React, React Native, React Navigation and also add a `tsconfig.json` and `jest.config.js` 
+To add TypeScript support please run `yarn run add:typescript` command which should execute the `typescript.sh` script and install all the TypeScript dependencies with types for React, React Native, React Navigation and also add a `tsconfig.json` and `jest.config.js` 
 
-If `yarn run typescript:add` fails then kindly apply the changes as mentioned in the [docs](https://facebook.github.io/react-native/docs/typescript) :sweat:
+If `yarn run add:typescript` fails then kindly apply the changes as mentioned in the [docs](https://facebook.github.io/react-native/docs/typescript) :sweat:
 
 **Note**: This feature is in beta and only tested on Linux and MacOSX
 
